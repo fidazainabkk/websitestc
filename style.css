@@ -48,7 +48,7 @@ ul{
 
 
 .divhpb{
-    margin-top: -570px;
+    margin-top: -520px;
     text-align: center;
     font-family: 'Times New Roman', Times, sans-serif;
 }
@@ -57,20 +57,20 @@ ul{
     margin-top: 170px;
 }
 #destinhead{
-    font-size: 70px;
+    font-size: 60px;
     text-align: center;
-    font-weight: 1700;
+    font-weight: 1300;
     color: rgb(20, 2, 93);
 }
 #destp1{
     margin-top: 420px;
     font-weight: 700;
-    font-size: 35px;
+    font-size: 30px;
     color: rgb(147, 13, 57);
 }
 .divibutton1{
-    margin-top: -37.7%;
-    margin-left: 81%;
+    margin-top: -38.7%;
+    margin-left: 79%;
     align-content: center;
 }
 #button1{
@@ -179,74 +179,74 @@ ul{
     background-color: white;
     border: 1px solid;
     display: block;
-    margin-left: 50px;
+    margin-left: 90px;
     height: 600px;
-    width: 450px;
+    width: 400px;
 }
 .destdiv2{
     position: absolute;
     /* top: 20%;
     left: 40%; */
-    width: 335px;
+    width: 300px;
     height: 550px;
     background-color: white;
     border: 1px solid;
     display: block;
-    margin-left: 600px;
+    margin-left: 540px;
     height: 600px;
-    width: 450px;
+    width: 400px;
 }
 
 .destdiv3{
     position: absolute;
-    width: 335px;
+    width: 300px;
     height: 550px;
     /* top: 20%;
     right: 10%; */
     background-color: white;
     border: 1px solid;
     display: block;
-    margin-left: 1150px;
+    margin-left: 990px;
     height: 600px;
-    width: 450px;
-    margin-right: 50px;
+    width: 400px;
+    margin-right: 20px;
 }
 .destdiv4{
     position: absolute;
     top: 5%;
-    width: 335px;
+    width: 300px;
     height: 550px;
     background-color: white;
     border: 1px solid;
     margin-top: 600px;
-    margin-left: 50px;
+    margin-left: 90px;
     height: 600px;
-    width: 450px;
+    width: 400px;
 }
 .destdiv5{
     position: absolute;
     top: 5%;
-    width: 335px;
+    width: 300px;
     height: 550px;
     background-color: white;
     border: 1px solid;
     margin-top: 600px;
-    margin-left: 600px;
+    margin-left: 540px;
     height: 600px;
-    width: 450px;
+    width: 400px;
 }
 .destdiv6{
     position: absolute;
-    width: 335px;
+    width: 300px;
     height: 550px;
     top: 5%;
     background-color: white;
     border: 1px solid;
     margin-top: 600px;
-    margin-left: 1150px;
+    margin-left: 990px;
     height: 600px;
-    width: 450px;
-    margin-right: 50px;
+    width: 400px;
+    margin-right: 20px;
 }
 
 /* .destdiv{
